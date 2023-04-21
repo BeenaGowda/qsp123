@@ -6,7 +6,6 @@ public class gitbash {
 	{
 		System.out.println("Success");
 		//pull
-		
 	}
 
 }
